@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paras Jain</h1>
-<h3 align="center">🔭 I’m currently a second-year undergraduate student at NSUT Dwarka 🌱 I’m currently learning Full Stack Development and its applications 🚀 I’m passionate about coding, solving complex problems, and constantly learning new technologies.</h3>
+<h1 align="center">Hi, I'm Paras Jain</h1>
+<h3 align="center">🔭 I’m currently a second-year undergraduate student at NSUT Dwarka  I’m currently learning Full Stack Development and its applications  I’m passionate about coding, solving complex problems, and constantly learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjbeast23&label=Profile%20views&color=0e75b6&style=flat" alt="pjbeast23" /> </p>
 
